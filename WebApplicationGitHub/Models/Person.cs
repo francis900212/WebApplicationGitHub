@@ -10,5 +10,7 @@ namespace WebApplicationGitHub.Models
         public int PersonId { get; set; }
 
         public string Name { get; set; }
+        
+        public int edad {get; set;}
     }
 }
